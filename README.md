@@ -1,1 +1,4 @@
-# 4.11.1.py
+def f(x, n):
+    return x**n
+
+print(f(2,5))
